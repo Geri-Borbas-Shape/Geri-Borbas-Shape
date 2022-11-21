@@ -3,7 +3,7 @@
 **Name and home country:**<br />
 Gergely (Geri) Borbás, 🇭🇺 Hungary
 
-📱 I love this industry. In the past 10 years, I made numerous Apps and Games both teamed and solo. Having attended a design school and graduated from an art University, I started out as a designer. Later on, I transitioned to App Developer (Web, Flash, then iOS Dev, plus some Unity). Being a knowledge-sharing enthusiast, I maintain a [Dev Blog](https://blog.eppz.eu/).
+📱 I love this industry. In the past 10 years, I made numerous Apps and Games both teamed and solo. Having attended a design school and graduated from an art University, I started out as a designer. Later on, I transitioned to App Developer (Web, Flash, then iOS Dev, plus some Unity). Being a knowledge-sharing enthusiast, I maintain a [Dev Blog].
 
 **Previous work/school:**<br />
 🛠️ Before Shape, I've done Remote iOS Dev Consultancy for 7 years. Before that, I was iOS Dev and UI/UX Designer at Budapest agencies for 7 years, before that we ran a small design studio with friends in sync with the University.
@@ -11,7 +11,7 @@ Gergely (Geri) Borbás, 🇭🇺 Hungary
 **Hobby/interests:**<br />
 All things related to Design, Geometry, Architecture, plus related development projects.
 
-🏛️ During the lockdowns, I got hooked on Digital Lego so ended up working on this miniature Acropolis design.
+🏛️ During the lockdowns, I got hooked on Digital Lego so ended up working on this [miniature Acropolis design].
 
 ⛩️ I ventured into geometry-related games, created a tangram! game and its sequel, plus created a gesture-based SwiftUI Sudoku game. It is yet to be published, but I can show the design files. I'm overly enthusiastic about design systems and Figma in particular (in-between design and development).
 
@@ -21,3 +21,6 @@ All things related to Design, Geometry, Architecture, plus related development p
 
 **Three things I would bring to a deserted island:**<br />
 😄 Would not go there in the first place. ⛴️ I guess a big ship with supplies would be sufficient with instructions about how to leave.
+
+[Dev Blog]: https://blog.eppz.eu
+[miniature Acropolis design]: https://www.dropbox.com/scl/fo/6hvdnz5sjhm8cojsdpti7/h?dl=0&rlkey=slpqk6x0vl1xpsf789v223nmh
