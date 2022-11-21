@@ -1,4 +1,7 @@
-👋
+👋 Hello people, excited to be here!
+
+**Name and home country:**<br />
+Gergely (Geri) Borbás, 🇭🇺 Hungary
 
 📱 I love this industry. In the past 10 years, I made numerous Apps and Games both teamed and solo. Having attended a design school and graduated from an art University, I started out as a designer. Later on, I transitioned to App Developer (Web, Flash, then iOS Dev, plus some Unity). Being a knowledge-sharing enthusiast, I maintain a [Dev Blog](https://blog.eppz.eu/).
 
@@ -7,3 +10,14 @@
 
 **Hobby/interests:**<br />
 All things related to Design, Geometry, Architecture, plus related development projects.
+
+🏛️ During the lockdowns, I got hooked on Digital Lego so ended up working on this miniature Acropolis design.
+
+⛩️ I ventured into geometry-related games, created a tangram! game and its sequel, plus created a gesture-based SwiftUI Sudoku game. It is yet to be published, but I can show the design files. I'm overly enthusiastic about design systems and Figma in particular (in-between design and development).
+
+♠️ Spent time with online poker (currently revisiting Backgammon). I prototyped a HUD for the macOS PokerStars client to overlay 3rd party player data for better estimating hand ranges.
+
+🎹 Guitar and piano hobbyist.
+
+**Three things I would bring to a deserted island:**<br />
+😄 Would not go there in the first place. ⛴️ I guess a big ship with supplies would be sufficient with instructions about how to leave.
