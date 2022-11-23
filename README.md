@@ -15,7 +15,7 @@ All things related to Design, Geometry, Architecture, plus related development p
 
 ⛩️ I ventured into geometry-related games, created a [tangram!] game and [its sequel], plus created a gesture-based SwiftUI Sudoku game. It is yet to be published, but I can show the [design files]. I'm overly enthusiastic about design systems and Figma in particular (in-between design and development).
 
-♠️ Spent time with online poker (currently revisiting Backgammon). I prototyped a HUD for the macOS PokerStars client to overlay 3rd party player data for better estimating hand ranges.
+♠️ Spent time with online poker (currently revisiting Backgammon). I prototyped a [HUD for the macOS PokerStars client] to overlay 3rd party player data for better estimating hand ranges.
 
 🎹 Guitar and piano hobbyist.
 
@@ -27,3 +27,4 @@ All things related to Design, Geometry, Architecture, plus related development p
 [tangram!]: https://apps.apple.com/us/app/id409914201
 [its sequel]: https://apps.apple.com/us/app/id1200669138
 [design files]: https://www.figma.com/file/I492HQCyjsgteeha3SPwa7/Sudoku
+[HUD for the macOS PokerStars client]: https://github.com/Geri-Borbas/macOS.Prototype.Ranger
