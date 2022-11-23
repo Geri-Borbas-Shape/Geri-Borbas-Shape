@@ -13,7 +13,7 @@ All things related to Design, Geometry, Architecture, plus related development p
 
 🏛️ During the lockdowns, I got hooked on Digital Lego so ended up working on this [miniature Acropolis design].
 
-⛩️ I ventured into geometry-related games, created a [tangram!] game and [its sequel], plus created a gesture-based SwiftUI Sudoku game. It is yet to be published, but I can show the design files. I'm overly enthusiastic about design systems and Figma in particular (in-between design and development).
+⛩️ I ventured into geometry-related games, created a [tangram!] game and [its sequel], plus created a gesture-based SwiftUI Sudoku game. It is yet to be published, but I can show the [design files]. I'm overly enthusiastic about design systems and Figma in particular (in-between design and development).
 
 ♠️ Spent time with online poker (currently revisiting Backgammon). I prototyped a HUD for the macOS PokerStars client to overlay 3rd party player data for better estimating hand ranges.
 
@@ -26,3 +26,4 @@ All things related to Design, Geometry, Architecture, plus related development p
 [miniature Acropolis design]: https://www.dropbox.com/scl/fo/6hvdnz5sjhm8cojsdpti7/h?dl=0&rlkey=slpqk6x0vl1xpsf789v223nmh
 [tangram!]: https://apps.apple.com/us/app/id409914201
 [its sequel]: https://apps.apple.com/us/app/id1200669138
+[design files]: https://www.figma.com/file/I492HQCyjsgteeha3SPwa7/Sudoku
