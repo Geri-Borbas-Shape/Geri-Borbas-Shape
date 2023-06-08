@@ -21,7 +21,7 @@ All things related to Design, Geometry, Architecture, plus related development p
 
 ♠️ Spent time with online poker. I prototyped a [HUD for the macOS PokerStars client] to overlay 3rd party player data for better estimating hand ranges.
 
-🎸 Guitar and piano hobbyist.
+🎹 Guitar and piano hobbyist.
 
 **Three things I would bring to a deserted island:**<br />
 😄 Would not go there in the first place. ⛴️ I guess a big ship with supplies would be sufficient with instructions about how to leave.
