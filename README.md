@@ -13,7 +13,7 @@ Multiple ways (Recruiter, Google, Twitter, The Hub)
 🛠️ Before Shape, I've done Remote iOS Dev Consultancy for 7 years. Before that, I was iOS Dev and UI/UX Designer at Budapest agencies for 7 years, before that we ran a small design studio with friends in sync with the University.
 
 **Hobby/interests:**<br />
-All things related to Design, Geometry, Architecture, plus related development projects.
+All things related to Design, Geometry, Architecture, Art plus related development projects.
 
 🏛️ During the lockdowns, I got hooked on Digital Lego so ended up working on this [miniature Acropolis design].
 
