@@ -17,7 +17,7 @@ All things related to Design, Geometry, Architecture, Art plus related developme
 
 🏛️ During the lockdowns, I got hooked on Digital Lego so ended up working on this [miniature Acropolis design].
 
-⛩️ I ventured into geometry-related games, created a [tangram!] game and [its sequel], plus created a gesture-based SwiftUI Sudoku game. It is yet to be published, but I can show the [design files]. I'm overly enthusiastic about design systems and Figma in particular (in-between design and development).
+⛩️ I ventured into geometry-related games, created a [tangram!] game and [its sequel], plus created a gesture-based SwiftUI Sudoku game. It is yet to be published, but I can show the [design files]. I'm overly enthusiastic about design systems (an everything in-between design and development).
 
 ♠️ Spent time with online poker. I prototyped a [HUD for macOS PokerStars client] to overlay 3rd party player data for better estimating hand ranges.
 
