@@ -33,3 +33,4 @@ All things related to Design, Geometry, Architecture, Art plus related developme
 [design files]: https://www.figma.com/file/I492HQCyjsgteeha3SPwa7/Sudoku
 [HUD for macOS PokerStars client]: https://github.com/Geri-Borbas/macOS.Prototype.RangerLine 1
 Line 2
+Line 3
