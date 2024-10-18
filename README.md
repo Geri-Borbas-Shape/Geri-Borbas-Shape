@@ -1,5 +1,5 @@
 **Name and home country:**<br />
-Gergely (Geri) Borbás, 🇭🇺 Hungary
+Gergely (Geri) Borbás, from 🇭🇺 Hungary to 🇩🇰 Denmark
 
 **About myself:**<br />
 👋 Hello people, excited to be here! 📱 I love this industry. In the past 10 years, I made numerous Apps and Games both teamed and solo. Having attended a design school and graduated from an art University, I started out as a designer. Later on, I transitioned to App Developer (Web, Flash, then iOS Dev, plus some Unity). Being a knowledge-sharing enthusiast, I maintain a [Dev Blog].
